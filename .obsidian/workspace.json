@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "05160b095d410cb1",
+        "id": "8b7ca6dfc665875a",
         "type": "tabs",
         "children": [
           {
-            "id": "a0bec6e8d22a2449",
+            "id": "a49ecd0194f3a138",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cfd672e6687cfd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tasks.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,18 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0bec6e8d22a2449",
+  "active": "a49ecd0194f3a138",
   "lastOpenFiles": [
+    "Daily notes/2024/09-Sep/2024-09-12.md",
     "README.md",
     "Tasks.md",
+    "Today.md",
+    "Work notes.md",
+    "Meetings.md",
+    "Images/Mallard.jpg",
+    "Daily notes/2024/09-Sep/2024-09-11.md",
     "Images/daily_note_icon.png",
     "Images",
-    "Daily notes/2024/09-Sep/2024-09-11.md",
-    "Today.md",
     "Reading.md",
     "READMe.md",
-    "Meetings.md",
-    "Work notes.md",
     "Snippets.md",
     "Daily notes/2024/09-Sep",
     "Daily notes/2024"
