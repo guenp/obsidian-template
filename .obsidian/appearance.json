@@ -1,0 +1,12 @@
+{
+  "accentColor": "#576aff",
+  "theme": "obsidian",
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "obsidian",
+    "checkbox",
+    "notation-colour-blocks",
+    "realistic-highlight",
+    "task_strikethrough"
+  ]
+}
